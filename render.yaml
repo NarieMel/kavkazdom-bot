@@ -1,7 +1,0 @@
-services:
-  - type: worker
-    name: kavkazdom-bot
-    env: python
-    buildCommand: ""
-    startCommand: python bot.py
-    plan: free
